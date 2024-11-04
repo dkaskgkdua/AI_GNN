@@ -7,4 +7,6 @@
                  start-page="GNN.md">
 
     <toc-element topic="GNN.md"/>
+    <toc-element topic="추천시스템.md"/>
+    <toc-element topic="Sequence-Recommendation.md"/>
 </instance-profile>
